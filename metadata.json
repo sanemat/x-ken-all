@@ -1,7 +1,8 @@
 {
   "name": "x-ken-all",
   "version": "2014-05-30",
-  "description": "郵便番号データ（加工済バージョン）http://zipcloud.ibsnet.co.jp/",
+  "main": "x-ken-all.csv",
+  "description": "郵便番号データ（加工済バージョン）Unofficial Mirror. http://zipcloud.ibsnet.co.jp/",
   "homepage": "https://github.com/sanemat/x-ken-all",
   "repository": {
     "type": "git",
