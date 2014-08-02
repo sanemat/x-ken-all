@@ -1,8 +1,0 @@
-data:
-  http://zipcloud.ibsnet.co.jp/
-
-source:
-  x-ken-all201406.zip
-
-date:
-  2014-06-30
