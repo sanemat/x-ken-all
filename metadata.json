@@ -1,6 +1,6 @@
 {
   "name": "x-ken-all",
-  "version": "2015-01-30",
+  "version": "2015-02-27",
   "main": "x-ken-all.csv",
   "description": "郵便番号データ（加工済バージョン）Unofficial Mirror. http://zipcloud.ibsnet.co.jp/ 文字コード: UTF-8, 改行コード: LF に変換済み",
   "homepage": "https://github.com/sanemat/x-ken-all",
